@@ -11,3 +11,4 @@ experience git features
 
 * this is the text that must be added
 * this is fixed PR this
+*sample
