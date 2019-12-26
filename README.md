@@ -8,3 +8,4 @@
 * login changes
 * added input component to login
 * background sample
+* fix bug 1
