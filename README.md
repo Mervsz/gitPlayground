@@ -29,13 +29,14 @@
 * naming utility/helper functions must be camelcase (eg. function newMeta() )
 * naming Class or Functional components must be first letter capitalized with no spaces or separator (eg. class ExampleButton)
 
-# BEST PRACTICES
+## BEST PRACTICES
 
 * Always use folder indexing on the **HEAD** folder.
 * Please maximize the usage of **typescript** on the code.
-* Add comments to complicated and unfinish code.
-* 
+* Add comments unto complicated and unfinish code.
+* Add helper.ts upon integration.
 
-# TIPS
+## TIPS
 
-* for faster debugging use commands "npm run log-android" or "npm run log-ios"  to log all "console.log" into terminal
+* for faster debugging use commands "npm run log-android" or "npm run log-ios"  to log all "console.log" into the terminal
+* see [react-native debugging](https://facebook.github.io/react-native/docs/debugging ) for more info
