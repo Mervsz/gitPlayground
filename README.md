@@ -7,3 +7,4 @@
 * added button component to login
 * login changes
 * added input component to login
+* background sample
